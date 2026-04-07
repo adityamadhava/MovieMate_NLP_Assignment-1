@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+selenium
+requests
+beautifulsoup4
+jupyter
+sentence-transformers
+chromadb
+gradio
